@@ -1,0 +1,8 @@
+position: fixed;
+right: 45%;
+bottom : 50%;
+color: black;
+display : flex;
+justify-content : center;
+align-items: center;
+z-index: 2;
